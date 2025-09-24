@@ -22,8 +22,6 @@ Each project demonstrates a fundamental hardware block implemented in a clean an
 - **DSP Block (Verilog)**  
   Simple DSP design with configurable datapath.
 
-  - **SPI Project (Verilog)**  
-  RTL Code for SPI Project
 
  - **UART Project (Verilog)**  
   RTL Code for UART Project
